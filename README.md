@@ -16,4 +16,6 @@ sudo apt install k6
 
 ### Run the script
 
-- k6 run v01.js
+```
+k6 run v01.js
+```
